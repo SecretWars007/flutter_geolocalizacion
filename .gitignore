@@ -1,3 +1,5 @@
 .env
+.env.example
+.env.private
 build/
 .dart_tool/
